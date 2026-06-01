@@ -1,5 +1,5 @@
 // 단위 테스트: 함수 하나를 격리해서 테스트
-import { add, calculate } from "../../calculator.js";
+import { add, calculate } from "../../src/calculator.js";
  
 describe("add", () => {
   test("두 양수를 더한다", () => {
