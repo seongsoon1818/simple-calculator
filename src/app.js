@@ -1,4 +1,4 @@
-import { calculate } from "./calculator.js";
+import { calculate } from "../calculator.js";
  
 const display = document.querySelector('[data-testid="display"]');
 const inputA = document.getElementById("inputA");
